@@ -1,15 +1,8 @@
-# Vue-2-ArticleProject
-This project in here -> https://vue-2-article-project.vercel.app/
-
+# vue-2-article-project
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Demo
+https://vue-2-article-project.netlify.app/
 
 ## Project Setup
 

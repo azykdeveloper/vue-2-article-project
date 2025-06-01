@@ -1,6 +1,6 @@
 [![Screenshot-2025-05-29-163104.png](https://i.postimg.cc/bNfgbDfp/Screenshot-2025-05-29-163104.png)](https://postimg.cc/9z1yHffn)
 
-# Article Project [demo](https://vue-2-article-project.netlify.app/)
+# Article Project ([demo](https://vue-2-article-project.netlify.app/))
 
 A simple Vue project that displays articles in a clean and responsive layout.
 

@@ -1,30 +1,20 @@
-# Vue-2-ArticleProject
-This project in here -> https://vue-2-article-project.vercel.app/
+[![Screenshot-2025-05-29-163104.png](https://i.postimg.cc/bNfgbDfp/Screenshot-2025-05-29-163104.png)](https://postimg.cc/9z1yHffn)
 
-This template should help get you started developing with Vue 3 in Vite.
+# Article Project [demo](https://vue-2-article-project.netlify.app/)
 
-## Recommended IDE Setup
+A simple Vue project that displays articles in a clean and responsive layout.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🛠 Tech Stack
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Vue vite
+- HTML5 & CSS3
+- JavaScript 
 
 ## Project Setup
+❗ For the project to be fully functional, the api-vue2 folder needs to be launched using docker
 
-```sh
+```bash
+git clone https://github.com/azykdeveloper/vue-2-article-project.git
+cd vue-#2-article-project
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```

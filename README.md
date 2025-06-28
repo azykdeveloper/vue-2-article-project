@@ -7,8 +7,11 @@ A simple Vue project that displays articles in a clean and responsive layout.
 ## 🛠 Tech Stack
 
 - Vue vite
+- VueX
+- Axios
 - HTML5 & CSS3
-- JavaScript 
+- JavaScript
+-  
 
 ## Project Setup
 ❗ For the project to be fully functional, the api-vue2 folder needs to be launched using docker
